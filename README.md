@@ -1,7 +1,3 @@
-![Build Status](https://travis-ci.org/musonza/chat.svg?branch=master)](https://app.travis-ci.com/github/musonza/chat)
-[![Downloads](https://poser.pugx.org/musonza/chat/d/total.svg)](https://packagist.org/packages/musonza/chat)
-[![Packagist](https://img.shields.io/packagist/v/musonza/chat.svg)](https://packagist.org/packages/musonza/chat)
-
 ## STARLINKCHAT
 
 Create a Chat application for your multiple Models
